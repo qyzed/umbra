@@ -1,0 +1,9 @@
+.git
+.venv
+node_modules
+.next
+__pycache__
+**/__pycache__
+.env
+bot/.env
+umbra.db
