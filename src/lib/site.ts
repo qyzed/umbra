@@ -1,8 +1,8 @@
 export const SITE = {
   name: "UMBRA",
   tagline: "Анонимные сообщения в Telegram",
-  botUsername: "UmbraAnonBot",
-  botUrl: "https://t.me/UmbraAnonBot",
+  botUsername: "anononsad_bot",
+  botUrl: "https://t.me/anononsad_bot",
   creator: "Rin",
   creatorUrl: "https://t.me/Rinbland",
   creatorHandle: "@Rinbland",

@@ -47,7 +47,7 @@ python bot/main.py
 
 # Environment Variables (Settings → Environment):
 BOT_TOKEN=ваш_токен_от_BotFather
-BOT_USERNAME=UmbraAnonBot
+BOT_USERNAME=anononsad_bot
 DB_PATH=umbra.db`;
 
 const FLY_CMDS = `# Установите flyctl и авторизуйтесь
@@ -59,7 +59,7 @@ cd bot
 fly launch --no-deploy
 
 # Секреты — через CLI, не в коде
-fly secrets set BOT_TOKEN=ваш_токен BOT_USERNAME=UmbraAnonBot
+fly secrets set BOT_TOKEN=ваш_токен BOT_USERNAME=anononsad_bot
 
 # Запуск
 fly deploy`;
